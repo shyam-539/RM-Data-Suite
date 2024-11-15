@@ -1,0 +1,13 @@
+body {
+  background-color: #f9f9f9;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+.app {
+  padding: 20px;
+}
