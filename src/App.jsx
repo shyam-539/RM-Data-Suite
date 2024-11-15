@@ -1,5 +1,5 @@
 import React from 'react'
-import APIDataFetcher from './components/APIDataFetcher/APIDataFetcher';
+import APIDataFetcher from './components/APIDataFetcher';
 
 const App = () => {
   return (
