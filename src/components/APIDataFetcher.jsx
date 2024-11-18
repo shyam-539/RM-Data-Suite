@@ -36,7 +36,7 @@ const APIDataFetcher = () => {
 
   return (
     <div className="container mt-5">
-      <h1 className="text-center mb-4 text-light">Rick and Morty Data Fetcher</h1>
+      <h1 className="text-center mb-4 text-dark">Rick and Morty Data Fetcher</h1>
 
       {/* Data Type Selector */}
       <div className="mb-4">
